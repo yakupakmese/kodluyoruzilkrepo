@@ -26,4 +26,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://opensource.org/licenses/MIT)
 
+[Patika](www.patika.dev)
+
 ![Proje Görüntüsü](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
